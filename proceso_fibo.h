@@ -8,7 +8,7 @@
 #include <direct.h>
 
 using namespace std;
-const string YO = "\n\t\t\t\t\t\t\t\t\t         Desarrollado por SIMON SANCHEZ ALVAREZ\n\t\t\t\t\t\t\t\t\t                                Politecnico JIC\n\t\t\t\t\t\t\t\t\t                                           2020";
+const string ME "\n\t\t\t\t\t\t\t\t\t         Desarrollado por SIMON SANCHEZ ALVAREZ\n\t\t\t\t\t\t\t\t\t                                Politecnico JIC\n\t\t\t\t\t\t\t\t\t                                           2020";
 
 struct informacion{
 	int i;				//VARIABLE QUE ALMACENA CUANTOS TERMINOS TIENE LA LISTA EN CASO DEL NODO CABEZA O ALMACENA LA SUMA DE LA SERIE FIBONACCI DEL SIGUIENTE TERMINO
